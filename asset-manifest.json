@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.afe2e0e6.css",
+    "main.css": "/static/css/main.32d9e49b.css",
     "main.js": "/static/js/main.d440a9b6.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/Pretendard-ExtraBold.woff": "/static/media/Pretendard-ExtraBold.82ea4400a5eea299b40c.woff",
@@ -8,12 +8,12 @@
     "static/media/Pretendard-Regular.woff": "/static/media/Pretendard-Regular.ab56c53f21ca6b32d15f.woff",
     "static/media/Pretendard-ExtraLight.woff": "/static/media/Pretendard-ExtraLight.ff5e73a97b5e7a5c5d5f.woff",
     "index.html": "/index.html",
-    "main.afe2e0e6.css.map": "/static/css/main.afe2e0e6.css.map",
+    "main.32d9e49b.css.map": "/static/css/main.32d9e49b.css.map",
     "main.d440a9b6.js.map": "/static/js/main.d440a9b6.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.afe2e0e6.css",
+    "static/css/main.32d9e49b.css",
     "static/js/main.d440a9b6.js"
   ]
 }
